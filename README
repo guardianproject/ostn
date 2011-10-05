@@ -1,1 +1,10 @@
-Put information about the Open Source Telephony Network in this repository.
+__Open Source Telephony Network__
+
+Research, documentation and infrastructure automation to build a secure VoIP
+network with free software for mobile handsets.
+
+User experience goals include simple installation and setup of client software
+and low-impact optional network configuration.
+
+Privacy goals include security and anonymity, as well as the option to initiate
+an untraceable conversation.
